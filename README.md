@@ -1,7 +1,7 @@
 Welcome to Coding Club
 ===
 
-### 我们的目标
+### 我们的目标:eyes:
 
 * 全员B级及以上通过技术学考
 
@@ -27,13 +27,13 @@ Welcome to Coding Club
 #### 社团招新
 面向各校小伙伴常年开放，详情请查看
 ```markdown
-[id]: https://m.eqxiu.com/s/GBCpr56w
-[2017FYAP Coding Club招新简章][id]
+
+[2017FYAP Coding Club招新简章](https://m.eqxiu.com/s/GBCpr56w)
 ```
 
 ***
 
 ### 联系我们
-Emoji:e-mail:<zhuxilei511@gmail.com>
+:e-mail:<zhuxilei511@gmail.com>
 
 
