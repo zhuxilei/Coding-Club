@@ -3,9 +3,9 @@ Welcome to Coding Club
 
 ### 我们的目标
 
-全员B级及以上通过技术学考
+* 全员B级及以上通过技术学考
 
-全员在4分及以上通过AP Computer Science A
+* 全员在4分及以上通过AP Computer Science A
 
 ### 活动计划
 
