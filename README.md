@@ -12,7 +12,7 @@
 
 
 
-更多信息请点击 
+更多信息请查看 
 ```markdown
 [2017FYAP Coding Club招新简章]
   (https://m.eqxiu.com/s/GBCpr56w).
