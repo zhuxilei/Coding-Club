@@ -24,10 +24,11 @@ Welcome to Coding Club
 与科技大佬进行交流。最高可达上万的奖金，更有机会获得各大科技公司的招聘Offer。
 
 
-####社团招新
+#### 社团招新
 面向各校小伙伴常年开放，详情请查看
 ```markdown
-[2017FYAP Coding Club招新简章](https://m.eqxiu.com/s/GBCpr56w)
+[id]: https://m.eqxiu.com/s/GBCpr56w
+[2017FYAP Coding Club招新简章][id]
 ```
 
 ***
