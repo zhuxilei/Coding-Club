@@ -14,8 +14,7 @@
 
 更多信息请查看 
 ```markdown
-[2017FYAP Coding Club招新简章]
-  (https://m.eqxiu.com/s/GBCpr56w).
+[2017FYAP Coding Club招新简章](https://m.eqxiu.com/s/GBCpr56w)
 ```
 ### 活动计划
 
@@ -36,10 +35,6 @@
 
 
 ### 联系我们
-zhuxilei511@gmail.com
+<zhuxilei511@gmail.com>
 
 
-
-```markup
-yuwhwj
-```
