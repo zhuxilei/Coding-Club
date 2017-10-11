@@ -1,5 +1,5 @@
-## Welcome to Coding Club
-
+Welcome to Coding Club
+===
 
 ### 我们的目标
 
@@ -7,15 +7,6 @@
 
 全员在4分及以上通过AP Computer Science A
 
-
-
-
-
-
-更多信息请查看 
-```markdown
-[2017FYAP Coding Club招新简章](https://m.eqxiu.com/s/GBCpr56w)
-```
 ### 活动计划
 
 1.	学习技术学考内容
@@ -33,6 +24,13 @@
 与科技大佬进行交流。最高可达上万的奖金，更有机会获得各大科技公司的招聘Offer。
 
 
+####社团招新
+面向各校小伙伴常年开放，详情请查看
+```markdown
+[2017FYAP Coding Club招新简章](https://m.eqxiu.com/s/GBCpr56w)
+```
+
+***
 
 ### 联系我们
 <zhuxilei511@gmail.com>
