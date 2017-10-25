@@ -10,11 +10,11 @@ Welcome to Coding Club
 ### 活动计划
 
 1.	学习技术学考内容
-2.	共同自学AP Computer Science A（JAVA编程语言）
-3.	共同自学C++编程语言
+2.	自学AP Computer Science A（JAVA编程语言）
+3.	自学C++编程语言
 4.	申请并组队参加全球各地创客马拉松。包括香港中文大学，
     华东区五大高校校联盟，斯坦福大学，宾夕法尼亚大学等
-5.	参加明年浙江赛区NOIP（全国青少年信息学奥林匹克联赛）
+5.	参加2018浙江赛区NOIP（全国青少年信息学奥林匹克联赛）
 
 
 ### 亮点活动
@@ -35,5 +35,6 @@ Welcome to Coding Club
 
 ### 联系我们
 :e-mail:<zhuxilei511@gmail.com>
+
 
 
